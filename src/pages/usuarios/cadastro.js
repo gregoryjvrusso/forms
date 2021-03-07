@@ -1,5 +1,3 @@
-const CadastroUsuario = () => {
-  return <h1>Cadastro de usuário</h1>;
-};
+import { CadastroUsuario } from "~/containers/usuarios";
 
 export default CadastroUsuario;
