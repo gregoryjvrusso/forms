@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "repository": "git@github.com:gregoryjvrusso/forms.git",
-  "author": "Gregory Russo <gregory.russo@luizalabs.com>",
+  "author": "Gregory Russo <gregoryjvrusso@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
